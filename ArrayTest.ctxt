@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArrayTest
+comment0.text=\r\n\ Takes\ a\ integer\ value\ from\ the\ user\ to\ supply\ a\ number\ of\ integers\ to\ read.\r\n\ Takes\ read\ ineteger\ and\ reads\ in\ the\ same\ amount\ dictated\ by\ the\ user,\ adding\ the\ to\ an\ array\r\n\ Produces\ the\ out\ of\ the\ array\ in\ order\ and\ in\ reverse,\ also\ along\ with\ the\ maximum\ and\ minimum\ values.\ \r\n\ \r\n\ @author\ Robert\ Lenko\r\n\ @version\ 4/11/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ for\ this\ class.\ This\ method\ implements\ the\ tests\ for\ the\r\n\ ArrayTest\ class\r\n\ \r\n\ @param\ args\ not\ used\ in\ this\ program.\r\n
+numComments=2
